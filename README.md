@@ -1,2 +1,3 @@
-# designModal
-设计模式 
+# Steph
+
+- AS a phper, my target is change myself
